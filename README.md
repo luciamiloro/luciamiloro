@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning React and UX/UI
 - 💬 Ask me about: HTML5 - CSS3 - JavaScript - Figma 
 - 📫 How to reach me: luciamilorodg@gmail.com
-- https://www.linkedin.com/in/luciamiloro/
+- [LinkedIn](https://www.linkedin.com/in/luciamiloro/) 
 <!--
 **luciamiloro/luciamiloro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
