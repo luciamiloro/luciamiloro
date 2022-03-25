@@ -5,7 +5,7 @@
 - [LinkedIn](https://www.linkedin.com/in/luciamiloro/)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciamiloro)](https://github.com/luciamiloro/luciamiloro)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciamiloro&layout=compact)](https://github.com/luciamiloro/luciamiloro)
 <!--
 **luciamiloro/luciamiloro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
