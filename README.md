@@ -4,7 +4,7 @@
 - 📫 How to reach me: luciamilorodg@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/luciamiloro/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciamiloro&layout=compact)](https://github.com/luciamiloro/luciamiloro)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciamiloro&layout=compact)]
  
 <!--
 **luciamiloro/luciamiloro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
