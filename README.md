@@ -1,5 +1,5 @@
 ### Hi, I'm Lucia 👋👩‍💻
-- 🌱 I’m currently learning React, Typescript and NextJs
+- 🌱 I’m currently learning React, Typescript and Next.js
 - 📫 How to reach me: luciamilorodg@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/luciamiloro/)
 
